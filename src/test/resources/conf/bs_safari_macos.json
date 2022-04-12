@@ -1,0 +1,11 @@
+{
+  "os": "OS X",
+  "os_version": "Monterey",
+  "browser": "Safari",
+  "browser_version": "15.0",
+  "browserstack.local": "false",
+  "browserstack.selenium_version": "3.14.0",
+  "browserstack.debug": "true",
+  "browserstack.console": "info",
+  "browserstack.networkLogs": "true"
+}

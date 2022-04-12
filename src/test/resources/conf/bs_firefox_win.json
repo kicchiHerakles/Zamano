@@ -1,0 +1,11 @@
+{
+  "os": "Windows",
+  "os_version": "11",
+  "browser": "Firefox",
+  "browser_version": "latest",
+  "browserstack.local": "false",
+  "browserstack.selenium_version": "3.10.0",
+  "browserstack.debug": "true",
+  "browserstack.console": "info",
+  "browserstack.networkLogs": "true"
+}

@@ -1,0 +1,7 @@
+{
+  "os_version": "12.0",
+  "device": "Samsung Galaxy Tab S8",
+  "real_mobile": "false",
+  "browserstack.local": "false",
+  "browser": "chrome"
+}

@@ -1,0 +1,6 @@
+project-name: Zamano
+build: 1.21
+main-page-url: http://keyacademy.kicchi.net
+url-to-navigate: https://todomvc.com/examples/react/#/
+browser-type-id: 9
+api-base-url: https://jsonplaceholder.typicode.com/todos
